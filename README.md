@@ -1,5 +1,10 @@
 # MyAssignments
 
+Framework used:
+Laravel 6.0
+
+database:
+Mysql
 
 1. All migrations files you can find inside database\migrations
 2. Models created under App folder
