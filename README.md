@@ -10,5 +10,5 @@ Mysql
 2. Models created under App folder
 3. API's routes you can find inside routes/api.php
 4. All routes for web defined under routes/web.php
-5. You can find sql file for database along with test data
+5. You can find sql file for database along with test data (my_assignments.sql)
 6. All views created inside resources\views\albums\
